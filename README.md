@@ -3,8 +3,11 @@
 My name is Cristian Alves, I'm currently a graphic designer. But I'm getting into the career of being a Developer Front-end :computer:. 
 And learning and creating various projects with:
 <br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
--  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+- HTML
+- CSS
+- JavaScript
+- React
+- Node
 
 Obs: I am looking for an Internship to develop myself in the company that is interested in my profile. I will go with the positioning to acquire knowledge. But above all, to show the responsibility of all the challenges that Are put to me. :wink:
 
